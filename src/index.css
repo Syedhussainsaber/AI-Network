@@ -8,6 +8,11 @@ html {
   scroll-behavior: smooth;
 }
 
+
+#home{
+  background-image: url("/public/ai-home-image.jpg");
+}
+
 .ant-timeline-item-label {
   font-size: 1.25em;
   font-weight: 600;

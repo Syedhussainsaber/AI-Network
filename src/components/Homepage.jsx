@@ -11,7 +11,7 @@ export default function Homepage() {
   return (
     <section
       id="home"
-      className='bg-[url("ai-home-image.jpg")] bg-cover bg-center min-h-screen relative px-3 flex items-center'
+      className='bg-cover bg-center min-h-screen relative px-3 flex items-center'
     >
       <div className="md:pl-10">
         <h2 className="text-white font-Exo text-4xl md:text-[55px] md:leading-[3.5rem] font-bold md:w-[460px]">
