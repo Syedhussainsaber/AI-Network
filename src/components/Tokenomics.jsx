@@ -11,17 +11,17 @@ Tokenomics
 
 <div className="tokenomics-container text-white flex flex-col w-full justify-center items-center gap-8 md:gap-6">
 <div className="token-section flex flex-row w-full items-center p-2">
-    <h4 className='w-3/4 text-center text-4xl text-[#59C09D] md:text-2xl w-3/4 sm:text-xl '>Total Suppy</h4>
+    <h4 className='w-1/2 text-center text-3xl text-[#59C09D] sm:text-4xl md:w-1/2'>Total Suppy</h4>
     <p className='w-1/2 text-center text-2xl'>2000Cr </p>
 </div>
 
 <div className="token-section flex flex-row w-full items-center p-2">
-    <h4 className='w-1/2 text-center text-4xl text-[#59C09D] md:text-2xl w-3/4 sm:text-xl'>Every event</h4>
+    <h4 className='w-1/2 text-center text-3xl text-[#59C09D] sm:text-4xl md:w-1/2'>Every event</h4>
     <p className='w-1/2 text-center text-2xl'> 5% burn </p>
 </div>
 
 <div className="token-section  flex flex-row w-full items-center p-2">
-    <h4 className='w-1/2 text-center text-4xl text-[#59C09D] md:text-2xl w-3/4 sm:text-xl'>Total Burn</h4>
+    <h4 className='w-1/2 text-center text-3xl text-[#59C09D] sm:text-4xl md:w-1/2'>Total Burn</h4>
     <p className='w-1/2 text-center text-2xl'> 60% </p>
 </div>
 
@@ -31,17 +31,17 @@ Tokenomics
 </div> */}
 
 <div className="token-section  flex flex-row w-full items-center p-2">
-    <h4 className='w-1/2 text-center text-4xl text-[#59C09D] md:text-2xl w-3/4 sm:text-xl'>Airdrop</h4>
+    <h4 className='w-1/2 text-center text-3xl text-[#59C09D] sm:text-4xl md:w-1/2'>Airdrop</h4>
     <p className='w-1/2 text-center text-2xl'>20%</p>
 </div>
 
 <div className="token-section  flex flex-row w-full items-center p-2">
-    <h4 className='w-1/2 text-center text-4xl text-[#59C09D] md:text-2xl w-3/4 sm:text-xl'>Honor holding</h4>
+    <h4 className='w-1/2 text-center text-3xl text-[#59C09D] sm:text-4xl md:w-1/2'>Honor holding</h4>
     <p className='w-1/2 text-center text-2xl'>10%</p>
 </div>
 
 <div className="token-section  flex flex-row w-full items-center p-2">
-    <h4 className='w-1/2 text-center text-4xl text-[#59C09D] md:text-2xl w-3/4 sm:text-xl'>Exchange</h4>
+    <h4 className='w-1/2 text-center text-3xl text-[#59C09D] sm:text-4xl  md:w-1/2'>Exchange</h4>
     <p className='w-1/2 text-center text-2xl'>10%</p>
 </div>
 </div>

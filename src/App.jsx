@@ -11,6 +11,7 @@ import Benefits from "./components/Benefits";
 import Footer from "./components/Footer";
 import Refer from "./components/Refer";
 import Tokenomics from "./components/Tokenomics";
+import SignUp from "./components/Sign-up";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       <Roadmap />
       <Services />
       <Benefits />
+      <SignUp/>
       <Refer />
       <Contact />
       <Footer />

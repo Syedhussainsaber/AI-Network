@@ -34,7 +34,7 @@ export default function Navbar() {
             </a>
           </li>
           <li>
-            <a className="hover:text-[#F6AE64] duration-500" href="#roadmap">
+            <a className="hover:text-[#F6AE64] duration-500" href='#roadmap'>
               Roadmap
             </a>
           </li>
@@ -83,7 +83,7 @@ export default function Navbar() {
           <li>
             <a
               className="block bg-white pl-5 py-3 border-b-[1px] hover:bg-[#F6AE64] duration-150"
-              href="#"
+              href="#roadmap"
             >
               Roadmap
             </a>

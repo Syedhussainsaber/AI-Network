@@ -4,7 +4,7 @@ import { Timeline } from "antd";
 export default function Roadmap() {
   return (
     <section
-      id="roadmap"
+   id="roadmap"
       className="flex flex-col justify-start bg-[#060A14] px-3 pt-20 w-full min-h-screen mx-auto bp:max-w-[540px] md:max-w-[720px] bp2:max-w-[960px]"
     >
       <h2 className="text-center text-white text-3xl uppercase pb-10 font-bold">
