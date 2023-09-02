@@ -10,6 +10,7 @@ import ScrollToTop from "./components/ScrollToTop";
 import Benefits from "./components/Benefits";
 import Footer from "./components/Footer";
 import Refer from "./components/Refer";
+import Tokenomics from "./components/Tokenomics";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Homepage />
       <About />
       <Whitepaper/>
+      <Tokenomics/>
       <Roadmap />
       <Services />
       <Benefits />
