@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faFacebookF,
   faTwitter,
-  faLinkedinIn,
+  faTelegram,
   faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
 import {
@@ -16,7 +16,7 @@ export default function Contact() {
   const facebookLink = ""; //   TODO: Enter facebook Link
   const twitterLink = ""; //   TODO: enter twitter link
   const instagramLink = ""; //   TODO: enter instagram link
-  const linkedinLink = ""; //   TODO: enter linkedin link
+  const telegramLink = "https://t.me/AINetwork_Official"; //   TODO: enter linkedin link
   const mobileNumber = "+175325887753"; //  TODO: replace number with original one
   const companyMail = "example@ai.com"; //   TODO: replace with original email
   const [formData, setFormData] = useState({
@@ -105,8 +105,8 @@ export default function Contact() {
               </a>
             </li>
             <li className="border-2 border-white hover:border-[#F6AE64] hover:text-[#F6AE64] duration-300 h-10 w-10 rounded-full grid place-content-center">
-              <a href={linkedinLink} target="_blank" rel="noopener noreferrer">
-                <FontAwesomeIcon icon={faLinkedinIn} />
+              <a href={telegramLink} target="_blank" rel="noopener noreferrer">
+                <FontAwesomeIcon icon={faTelegram} />
               </a>
             </li>
           </ul>

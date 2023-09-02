@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faFacebook,
   faTwitter,
-  faLinkedin,
+  faTelegram,
   faYoutube,
 } from "@fortawesome/free-brands-svg-icons";
 
@@ -32,10 +32,10 @@ export default function Homepage() {
           <li>
             <a
               className="hover:text-[#F6AE64] transition-all ease duration-500"
-              href=""
+              href="https://t.me/AINetwork_Official"
             >
-              <FontAwesomeIcon className="mr-1" icon={faLinkedin} />
-              Linkedin
+              <FontAwesomeIcon className="mr-1" icon={faTelegram} />
+Telegram
             </a>
           </li>
           <li>
