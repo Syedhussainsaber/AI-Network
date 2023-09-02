@@ -2,7 +2,7 @@ import React from 'react'
 import { motion, transform } from "framer-motion"
 const SignUp = () => {
   return (
-<section id='sign-up' className="bg-[#060A14] px-3 text-white pt-20 w-full min-h-screen">
+<section id='sign-up' className="overflow-x-hidden bg-[#060A14] px-3 text-white pt-20 w-full min-h-screen">
 <h2 className="text-center text-3xl uppercase pb-8 font-bold">
 Sign Up Bonus
       </h2>
@@ -14,7 +14,7 @@ Sign Up Bonus
  const Card = ({ title,description,altText,imgPath }) => {
     // const { level, earning, token } = item;
     return (
-      <motion.div transition={{duration:0.8,delay:0.2}} initial={{translateX:300}} whileInView={{translateX:0}} className="hover:ring-2 ring-[#59C09D] rounded-lg p-6 bg-[#121320] max-w-[550px] md: max-w-[350px] w-full mx-auto">
+      <motion.div transition={{duration:0.8,delay:0.2}} initial={{translateX:300}} whileInView={{translateX:0}} className="overflow-x-hidden hover:ring-2 ring-[#59C09D] rounded-lg p-6 bg-[#121320] max-w-[550px] md: max-w-[350px] w-full mx-auto">
         {/* <h4 className="text-3xl  font-bold font-Exo ">
           Level <span className="text-[#59C09D] text-5xl">{level}</span>
         </h4> */}
